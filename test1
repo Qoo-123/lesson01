@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>はじめてのCSSセミナー</title>
+    <style media="screen">
+      #top-h{
+        background: red;
+      }
+      .blue-text{
+        color:blue;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="top-h">はじめてのCSS</h1>
+    
+    <p class="blue-text">この文章は青文字になっています</p>
+  
+    <h2 class="blue-text">この見出しも青文字になっています</h2>
+  </body>
+</html>
